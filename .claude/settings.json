@@ -1,0 +1,5 @@
+{
+  "hooks": {
+    "UserPromptSubmit": ".claude/hooks/skill-activation-prompt.sh"
+  }
+}
